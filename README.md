@@ -8,6 +8,15 @@ Crypto Market Analytics Dashboard is an end-to-end Financial Analytics and Busin
 The main focus is on combining Data Analytics, Data Warehousing, Business Intelligence, and Financial Risk Analysis in a single workflow.
 --------------- تمرکز این پروژه بر ترکیب تحلیل داده، پایگاه داده، مبانی پیاده سازی هوش تجاری و تحلیل ریسک مالی است --------------
 
+- Analysis Scope
+This project analyzes Bitcoin market data over a 31-day period from "20 August 2026 to 19 September 2026".
+The dataset contains 721 hourly market observations, which were transformed into "31 daily records" for financial analysis.
+The reported returns, volatility, drawdown, and other financial metrics describe "only the selected analysis period" and should not be interpreted as long-term or historical Bitcoin estimates.
+Historical market extremes such as Bitcoin's all-time high are outside the scope of this analysis.
+--------  این پروژه در نسخه فعلی، رفتار بیت کوین را در یک بازه  "31 روزه از 20 آگوست تا 19 سپتامبر 2026 -------------
+--------  بررسی می‌کند و نتایج آن نباید به‌عنوان برآورد بلندمدت یا تاریخچه کامل بازار بیت‌کوین تفسیر شود --------------
+
+
 The project demonstrates the complete journey from raw market data to an analytical Power BI dashboard:
 CoinGecko API
       ↓
@@ -101,4 +110,3 @@ crypto-market-analytics-dashboard/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
-
