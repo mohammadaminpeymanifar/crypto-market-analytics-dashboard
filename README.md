@@ -1,5 +1,5 @@
 =================================== Crypto Market Analytics Dashboard ================================
-========================== End-to-End Financial Analytics & Business Intelligence Project ===========================
+========================= End-to-End Financial Analytics & Business Intelligence Project ==========================
 این یک پروژه در حوزه "تحلیل داده های مالی" و "مبانی هوش تجاری" است که با استفاده از داده واقعی بازار بیت‌کوین ساخته شده است
 - Overview
 Crypto Market Analytics Dashboard is an end-to-end Financial Analytics and Business Intelligence project built using real Bitcoin market data.
